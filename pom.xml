@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>high-concurrence</module>
+        <module>spring-source</module>
     </modules>
 
     <dependencies>
